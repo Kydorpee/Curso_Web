@@ -1,19 +1,20 @@
-📚 Estudos em PHP & HTML + CSS
+# 📚 Estudos em PHP & HTML + CSS  
 
-Repositório criado para organizar meus estudos e práticas em desenvolvimento web, utilizando PHP para lógica de servidor e HTML + CSS para estrutura e estilização das páginas.
+Repositório criado para organizar meus estudos e práticas em **desenvolvimento web**, utilizando **PHP** para lógica de servidor e **HTML + CSS** para estrutura e estilização das páginas.  
 
-🚀 Tecnologias utilizadas
+---
 
-🐘 PHP
- — Lógica de back-end
+## 🚀 Tecnologias utilizadas  
 
-🌐 HTML5
- — Estrutura de páginas
+- 🐘 [PHP](https://www.php.net/) — Lógica de back-end  
+- 🌐 [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML) — Estrutura de páginas  
+- 🎨 [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS) — Estilização  
 
-🎨 CSS3
- — Estilização
+---
 
-📂 Estrutura do repositório
+## 📂 Estrutura do repositório  
+
+```
 /
 ├── projetos/         # Projetos práticos
 │   ├── site-basico/  # Primeiro site em PHP + HTML + CSS
@@ -21,49 +22,54 @@ Repositório criado para organizar meus estudos e práticas em desenvolvimento w
 ├── exercicios/       # Exercícios resolvidos
 ├── anotações/        # Resumos e estudos teóricos
 └── README.md
+```
 
-🛠️ Como executar os exemplos
+---
 
-Instale o PHP
- no seu computador.
+## 🛠️ Como executar os exemplos  
 
-Clone este repositório:
+1. Instale o [PHP](https://www.php.net/downloads) no seu computador.  
+2. Clone este repositório:  
 
+```bash
 git clone https://github.com/Kydorpee/Curso_Web.git
+```
 
+3. Entre na pasta do projeto:  
 
-Entre na pasta do projeto:
-
+```bash
 cd php-html-css-estudos
+```
 
+4. Execute um servidor local do PHP:  
 
-Execute um servidor local do PHP:
-
+```bash
 php -S localhost:8000
+```
 
+5. Abra no navegador: [http://localhost:8000](http://localhost:8000)  
 
-Abra no navegador: http://localhost:8000
+---
 
-📌 Objetivos do repositório
+## 📌 Objetivos do repositório  
 
-Reforçar conceitos de HTML e CSS.
+- Reforçar conceitos de **HTML e CSS**.  
+- Praticar **PHP** com projetos simples.  
+- Criar pequenos sites e sistemas para aprendizado.  
+- Organizar anotações e materiais de estudo.  
 
-Praticar PHP com projetos simples.
+---
 
-Criar pequenos sites e sistemas para aprendizado.
+## ✨ Próximos passos  
 
-Organizar anotações e materiais de estudo.
+- [ ] Criar um **formulário com PHP** que salva dados.  
+- [ ] Estilizar páginas com **CSS responsivo**.  
+- [ ] Construir um **mini blog em PHP**.  
+- [ ] Estudar **integração com banco de dados (MySQL)**.  
 
-✨ Próximos passos
+---
 
- Criar um formulário com PHP que salva dados.
+## 🧑‍💻 Autor  
 
- Estilizar páginas com CSS responsivo.
-
- Construir um mini blog em PHP.
-
- Estudar integração com banco de dados (MySQL).
-
-🧑‍💻 Autor
-
-Feito por Pedro Vinícius
+Feito por **Pedro Vinícius**  
+🔗 [GitHub](https://github.com/Kydorpee)  
