@@ -29,7 +29,7 @@ Instale o PHP
 
 Clone este repositório:
 
-git clone https://github.com/SEU-USUARIO/php-html-css-estudos.git
+git clone https://github.com/Kydorpee/Curso_Web.git
 
 
 Entre na pasta do projeto:
@@ -66,5 +66,4 @@ Organizar anotações e materiais de estudo.
 
 🧑‍💻 Autor
 
-Feito com ☕ e 💻 por Pedro Vinícius
-🔗 GitHub
+Feito por Pedro Vinícius
